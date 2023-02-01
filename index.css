@@ -9,12 +9,12 @@ body {
     background-image: linear-gradient(#5DA4D9, #FFF);
 }
 
-#emojis {
+#emojiContainer {
     margin: 40px;
     text-align: center;
 }
 
-#emojis span {
+#emojiContainer span {
     margin: 10px;
     font-size: 60px;
 }
