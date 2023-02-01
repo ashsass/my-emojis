@@ -10,13 +10,13 @@ body {
 }
 
 #emojis {
-    font-size: 60px;
     margin: 40px;
     text-align: center;
 }
 
-.emoji {
+#emojis span {
     margin: 10px;
+    font-size: 60px;
 }
 
 #push,#unshift {
